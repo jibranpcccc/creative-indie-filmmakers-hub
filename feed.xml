@@ -4,10 +4,17 @@
     <title>Indie Filmmakers &amp; Cinema Gear Hub</title>
     <link>https://creative-indie-filmmakers-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Mon, 05 Oct 2026 06:03:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 06:03:44 GMT</lastBuildDate>
     <atom:link href="https://creative-indie-filmmakers-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                            <item>
+                                                                                                <item>
+      <title>📅 Today's Fresh Pick: r/kubernetes Cloud Native (Reddit)</title>
+      <link>https://www.reddit.com/r/kubernetes/</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/creative-indie-filmmakers-hub/#creative-indie-filmmakers-hub-reddit-20261006-1-2026-10-06</guid>
+      <pubDate>Tue, 06 Oct 2026 06:03:44 GMT</pubDate>
+      <description>Newly verified community added to Indie Filmmakers &amp; Cinema Gear Hub: Discussions on Kubernetes cluster management, Helm charts, ingress controllers, service meshes, and K8s operators.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/devops Practitioners Hub (Reddit)</title>
       <link>https://www.reddit.com/r/devops/</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/creative-indie-filmmakers-hub/#creative-indie-filmmakers-hub-reddit-20261005-1-2026-10-05</guid>
